@@ -1,7 +1,5 @@
 💻 Exercicio PHP - PW
 
-Bem-vinda(o) ao Exercicio PHP! 🖥️
-
 Um projeto simples em PHP para praticar conceitos de programação web.
 
 ✨ Funcionalidades

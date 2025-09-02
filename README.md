@@ -1,6 +1,4 @@
-💻 Exercicio PHP - PW
-
-Bem-vinda(o) ao Exercicio PHP! 🖥️
+💻 Exercicio PHP - PW0-
 
 Um projeto simples em PHP para praticar conceitos de programação web, incluindo manipulação de banco de dados.
 
